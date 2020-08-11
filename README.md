@@ -29,4 +29,5 @@ Once the dependencies have been installed, use `rails serve` to run the app. Vis
 ### Thanks
 
 This project is an implementation of learning from this WebCrunch [tutorial](https://youtu.be/XEkJ3vZb6-Q)
+
 Cute cupcake-themed Lorem Ipsum by [CupcakeIpsum](http://www.cupcakeipsum.com/)
